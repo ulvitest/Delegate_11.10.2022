@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.exe
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.deps.json
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.runtimeconfig.json
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.dll
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\bin\Debug\netcoreapp3.1\DelegatePractise.pdb
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.dll
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.pdb
+C:\Users\Lenovo\Desktop\P134\DelegatePractise\DelegatePractise\obj\Debug\netcoreapp3.1\DelegatePractise.genruntimeconfig.cache
